@@ -1,0 +1,4 @@
+library:	need OpenCV 3.2.0, and ffmpeg with libx264 enabled
+		for ffmpeg, the source code is modified, please use: https://github.com/lhrotk/ffmpeg_analysis_ver commit:3fa71f2d18a51656e5bdaa963732f9f158230441
+compile: 	make
+run:		./extract_mvs test_videos/traffic.264 test.264 (Do transcoding to compare the computation overhead)

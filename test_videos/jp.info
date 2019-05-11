@@ -1,0 +1,1200 @@
+    600  frames
+    20fps
+    576x360
+Input #0, h264, from 'test_videos/traffic-jp.264':
+  Duration: N/A, bitrate: N/A
+    Stream #0:0: Video: h264 (High), yuv420p(progressive), 576x360 [SAR 1:1 DAR 8:5], 20 fps, 20 tbr, 1200k tbn, 40 tbc
+[libx264 @ 0x3cfaa40] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 AVX2 LZCNT BMI2
+[libx264 @ 0x3cfaa40] profile High, level 3.0
+Ratio: 0.054348
+Ratio: 0.057971
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.062802
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.060386
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.064010
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.085749
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.078502
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.166667
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.175121
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.179952
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.121981
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.097826
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+[libx264 @ 0x3cfaa40] specified frame type (3) at 0 is not compatible with keyframe interval
+Ratio: 0.088164
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.085749
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.088164
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.119565
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.128019
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.117150
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.114734
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.106280
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.113527
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.114734
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.113527
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.105072
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.107488
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.101449
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.118357
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.142512
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.169082
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.178744
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.137681
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.123188
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.125604
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.111111
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.119565
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.161836
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.194444
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.194444
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.188406
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.455314
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.455314
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.455314
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.341787
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.251208
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.227053
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.184783
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.182367
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.199275
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.207729
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.228261
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.216184
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.148551
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.120773
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.131643
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.153382
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.173913
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.158213
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.157005
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.146135
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.149758
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.142512
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.130435
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.158213
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.142512
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.147343
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.126812
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.124396
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.188406
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.199275
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.184783
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.169082
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.147343
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.172705
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.177536
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.195652
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.250000
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.254831
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.248792
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.240338
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.212560
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.214976
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.211353
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.211353
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.201691
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.219807
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.233092
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.234300
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.276570
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.248792
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.086957
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.099034
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.153382
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.152174
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.181159
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.166667
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.181159
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.172705
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.184783
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.172705
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.176329
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.164251
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.185990
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+[libx264 @ 0x3cfaa40] forced frame type (3) at 90 was changed to frame type (1)
+Ratio: 0.173913
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.172705
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.163043
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.213768
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.219807
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.221014
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.216184
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.182367
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.163043
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.152174
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.161836
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.165459
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.318841
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.324879
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.324879
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.293478
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.266908
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.248792
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.236715
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.211353
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.177536
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.157005
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.132850
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.132850
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.107488
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.189614
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.192029
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.184783
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.160628
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.199275
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.195652
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.194444
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.170290
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.159420
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.150966
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.155797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.153382
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.212560
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.205314
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.222222
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.202899
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.223430
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.190821
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.181159
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.177536
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.259662
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.258454
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.247585
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.165459
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.169082
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.170290
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.166667
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.150966
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.222222
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.230676
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.230676
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.201691
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.154589
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.143720
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.167874
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.165459
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.169082
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.163043
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.150966
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.152174
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.257246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.263285
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.275362
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.195652
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.192029
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.169082
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.140097
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.137681
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.125604
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.117150
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.117150
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.039855
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.044686
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.136473
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.129227
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.137681
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.100242
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.154589
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.172705
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.239130
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.242754
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.257246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.218599
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.207729
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.193237
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+[libx264 @ 0x3cfaa40] forced frame type (3) at 180 was changed to frame type (1)
+Ratio: 0.179952
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.170290
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.274155
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.286232
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.298309
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.272947
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.236715
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.171498
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.155797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.132850
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.134058
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.131643
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.146135
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.147343
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.241546
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.260870
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.254831
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.192029
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.132850
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.131643
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.154589
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.147343
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.146135
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.129227
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.130435
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.130435
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.121981
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.120773
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.132850
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.124396
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.134058
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.130435
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.141304
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.142512
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.200483
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.194444
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.204106
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.157005
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.159420
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.140097
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.175121
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.228261
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.235507
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.235507
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.221014
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.437198
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.438406
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.438406
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.361111
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.268116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.236715
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.225845
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.142512
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.190821
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.198068
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.199275
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.178744
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.137681
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.123188
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.119565
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.114734
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.089372
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.097826
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.109903
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.112319
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.117150
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.082126
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.084541
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.074879
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.053140
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.054348
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.132850
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.134058
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.028986
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.036232
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.036232
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.068841
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.120773
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.141304
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.155797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.117150
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.090580
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.072464
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.065217
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.057971
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.064010
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+[libx264 @ 0x3cfaa40] forced frame type (3) at 270 was changed to frame type (1)
+Ratio: 0.038647
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.039855
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.158213
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.157005
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.153382
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.077295
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.054348
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.064010
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.066425
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.080918
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.073671
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.100242
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.097826
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.095411
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.096618
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.095411
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.090580
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.086957
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.084541
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.097826
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.100242
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.102657
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.166667
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.187198
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.199275
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.190821
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.196860
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.200483
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.171498
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.165459
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.268116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.286232
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.288647
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.282609
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.250000
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.216184
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.181159
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.173913
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.157005
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.137681
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.126812
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.171498
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.253623
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.246377
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.258454
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.206522
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.169082
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.137681
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.126812
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.099034
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.090580
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.095411
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.092995
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.090580
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.085749
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.120773
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.118357
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.119565
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.070048
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.074879
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.064010
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.057971
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.130435
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.130435
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.128019
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.100242
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.059179
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.132850
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.138889
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.155797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.159420
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.300725
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.310386
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.333333
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.000000
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.000000
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.014493
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.126812
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.135266
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.135266
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.112319
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.064010
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.038647
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+[libx264 @ 0x3cfaa40] forced frame type (3) at 360 was changed to frame type (1)
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.000000
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.021739
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.043478
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.047101
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.047101
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.037440
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.037440
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.035024
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.035024
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.037440
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.047101
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.064010
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.071256
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.072464
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.064010
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.079710
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.084541
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.131643
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.121981
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.169082
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.164251
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.164251
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.154589
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.155797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.137681
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.143720
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.135266
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.131643
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.137681
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.141304
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.150966
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.227053
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.225845
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.234300
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.214976
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.184783
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.175121
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.169082
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.164251
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.167874
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.165459
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.165459
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.171498
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.185990
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.190821
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.185990
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.175121
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.222222
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.235507
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.241546
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.223430
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.242754
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.256039
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.253623
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.242754
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.210145
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.204106
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.192029
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.183575
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.190821
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.187198
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.179952
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.405797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.405797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.405797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.329710
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.269324
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.222222
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.217391
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.195652
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.147343
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.221014
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.055556
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.055556
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.068841
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.080918
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.086957
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.082126
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.100242
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.102657
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.120773
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.109903
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.109903
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.091787
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.094203
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.086957
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.074879
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.067633
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.091787
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+[libx264 @ 0x3cfaa40] forced frame type (3) at 450 was changed to frame type (1)
+Ratio: 0.123188
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.166667
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.179952
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.190821
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.114734
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.107488
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.101449
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.101449
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.094203
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.177536
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.195652
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.212560
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.192029
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.155797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.117150
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.105072
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.094203
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.079710
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.079710
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.101449
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.089372
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.178744
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.193237
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.193237
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.150966
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.112319
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.111111
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.091787
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.108696
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.095411
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.089372
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.102657
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.109903
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.108696
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.103865
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.111111
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.113527
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.144928
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.167874
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.182367
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.199275
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.212560
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.213768
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.202899
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.177536
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.181159
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.163043
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.164251
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.196860
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.198068
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.184783
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.196860
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.167874
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.166667
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.160628
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.163043
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.147343
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.124396
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.118357
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.113527
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.200483
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.207729
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.204106
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.160628
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.163043
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.140097
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.134058
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.112319
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.099034
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.088164
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.077295
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.073671
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.077295
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.088164
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.091787
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.045894
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.039855
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.047101
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.036232
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.150966
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.163043
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.158213
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.082126
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.036232
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.047101
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.090580
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.105072
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+[libx264 @ 0x3cfaa40] forced frame type (3) at 540 was changed to frame type (1)
+Ratio: 0.096618
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.067633
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.057971
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.036232
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.010870
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.149758
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.155797
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.159420
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.115942
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.077295
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.068841
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.042271
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.024155
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.024155
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.021739
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.010870
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.010870
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.007246
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.059179
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.059179
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.076087
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.038647
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.038647
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.044686
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.036232
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.018116
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.048309
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.089372
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.107488
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
+Ratio: 0.115942
+[libx264 @ 0x3cfaa40] non-strictly-monotonic PTS
